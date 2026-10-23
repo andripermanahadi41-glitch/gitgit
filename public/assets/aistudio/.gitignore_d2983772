@@ -1,0 +1,18 @@
+# Configuration locale : contient les cles API
+config.json
+
+# Fichiers d'etat ecrits par l'application a cote du script/exe
+spend.json
+selftest.log
+*.log
+
+# Sorties de generation, si output_dir pointe dans le depot
+GP180_Presets/
+
+# Build
+.venv/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc

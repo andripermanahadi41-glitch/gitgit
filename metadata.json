@@ -1,0 +1,6 @@
+{
+  "name": "GP-180 Studio",
+  "description": "Companion tone studio, pedalboard editor, setlist manager, and LUFS volume harmonizer for Valeton GP-180 multi-effects processor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
